@@ -13,6 +13,7 @@
     "serve_setup_cmd": "./ci/serve_setup.sh",
     "serve_cmd": "./ci/serve.sh",
     "rebuild_cmd": "",
+    "base_image_tag": "node-12.18",
     "output_directories": [ "desktop" ],
     "dependencies": {
       "install_deps_cmd": "./ci/install_deps.sh",
